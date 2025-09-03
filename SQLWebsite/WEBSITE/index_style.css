@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(126, 109, 109);
+}
+
+.login-container {
+    background-color: rgb(34, 31, 59);
+    width: 300px;
+    margin: 200px auto;
+    padding: 30px;
+    background: #fff;
+    border-radius: 8px;
+
+}
+
+h1 {
+    margin: 5px auto;
+    margin-left: 100px;
+}
+
+.input {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+label {
+    background-color: rgb(187, 187, 236);
+    font: 1em sans-serif;
+    border-radius: 10px;
+    padding: 2px;
+}
